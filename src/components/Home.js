@@ -67,9 +67,11 @@ function Home() {
                 <div class="col-lg-12">
                     <div class="ud-section-title">
                         <span>Features</span>
-                        <h2>Main Features of Play</h2>
+                        <h2>Why Qiqad?</h2>
                         <p>
-                            There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.
+                            Qiqad values customer satisfaction.
+                            <br />
+                            Breaking all the expectations.
                         </p>
                     </div>
                 </div>
@@ -81,9 +83,9 @@ function Home() {
                             <i class="lni lni-gift"></i>
                         </div>
                         <div class="ud-feature-content">
-                            <h3 class="ud-feature-title">Free and Open-Source</h3>
+                            <h3 class="ud-feature-title">Strong & Durable</h3>
                             <p class="ud-feature-desc">
-                                Lorem Ipsum is simply dummy text of the printing and industry.
+                                Qiqad ensures all product can handle relevant stress.
                             </p>
                             <a href="javascript:void(0)" class="ud-feature-link">
                   Learn More
@@ -97,9 +99,9 @@ function Home() {
                             <i class="lni lni-move"></i>
                         </div>
                         <div class="ud-feature-content">
-                            <h3 class="ud-feature-title">Multipurpose Template</h3>
+                            <h3 class="ud-feature-title">Easy Assembly</h3>
                             <p class="ud-feature-desc">
-                                Lorem Ipsum is simply dummy text of the printing and industry.
+                                Detailed user manual and obvious joints will do.
                             </p>
                             <a href="javascript:void(0)" class="ud-feature-link">
                   Learn More
@@ -115,7 +117,7 @@ function Home() {
                         <div class="ud-feature-content">
                             <h3 class="ud-feature-title">High-quality Design</h3>
                             <p class="ud-feature-desc">
-                                Lorem Ipsum is simply dummy text of the printing and industry.
+                                Appealing design is defination of modern finale.
                             </p>
                             <a href="javascript:void(0)" class="ud-feature-link">
                   Learn More
@@ -126,12 +128,12 @@ function Home() {
                 <div class="col-xl-3 col-lg-3 col-sm-6">
                     <div class="ud-single-feature wow fadeInUp" data-wow-delay=".25s">
                         <div class="ud-feature-icon">
-                            <i class="lni lni-layers"></i>
+                            <i class="lni lni-brush"></i>
                         </div>
                         <div class="ud-feature-content">
-                            <h3 class="ud-feature-title">All Essential Elements</h3>
+                            <h3 class="ud-feature-title">Tailor-Made</h3>
                             <p class="ud-feature-desc">
-                                Lorem Ipsum is simply dummy text of the printing and industry.
+                                Color, size, decoration... Everything is customizable at Qiqad.
                             </p>
                             <a href="javascript:void(0)" class="ud-feature-link">
                   Learn More
@@ -149,13 +151,13 @@ function Home() {
                 <div class="ud-about-content-wrapper">
                     <div class="ud-about-content">
                         <span class="tag">About Us</span>
-                        <h2>Brilliant Toolkit to Build Nextgen Website Faster.</h2>
+                        <h2>Brilliant designers and artists.</h2>
                         <p>
-                            The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables led by subject matter experts.
+                            The main focus being to make quality designs and final product. We encapsulate all our focus on the smile of the customer and loyalty. Trying to fulfil all promises made, quality, applealing, durable and ease of handling.
                         </p>
 
                         <p>
-                            The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel.
+                            Simply the best.
                         </p>
                         <a href="javascript:void(0)" class="ud-main-btn">Learn More</a>
                     </div>
@@ -177,15 +179,13 @@ function Home() {
                         <p>
                             There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.
                         </p>
-                        <iframe allowfullscreen width="640" height="480" loading="lazy" frameborder="0" src="https://p3d.in/e/qSIwP+spin"></iframe>
-                        <iframe allowfullscreen width="640" height="480" loading="lazy" frameborder="0" src="https://p3d.in/e/WITdJ"></iframe>
                     </div>
                 </div>
             </div>
 
             <div class="row g-0 align-items-center justify-content-center">
                 <p>
-                    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                    xxss
                 </p>
             </div>
         </div>
